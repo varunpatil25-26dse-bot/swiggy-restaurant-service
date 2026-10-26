@@ -4,7 +4,7 @@ RESTAURANT_CATALOG = [
         "name": "Meghana Foods",
         "cuisine": ["Biryani", "Andhra"],
         "rating": 4.5,
-        "is_veg": False,
+        "is_veg": False
     },
     {
         "id": 2,
